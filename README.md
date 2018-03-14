@@ -1,6 +1,6 @@
 # Keycloal, JavaScript, API Sample
 
-Demomstrates a simple index.html that redirects to local keycloak server in case the user is not logged in. Keycloak returns a signed JWT on successful login. The token can be used to authorize client requests against an API.
+Demonstrates a simple index.html that redirects to local keycloak server in case the user is not logged in. Keycloak returns a signed JWT on successful login. The token can be used to authorize client requests against an API.
 
 ## Setup
 
